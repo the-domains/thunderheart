@@ -1,4 +1,4 @@
-layout_spectrum: 0.8663223460316658
+name: ThunderHeart
 opengraph:
   image: null
   type: null
@@ -9,12 +9,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.7735590992961079
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: ThunderHeart
+layout_spectrum: 0.05513784
