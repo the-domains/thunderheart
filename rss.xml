@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ThunderHeart Guidance]]></title>
         <description><![CDATA[ThunderHeart Guidance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thunderheart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 14:29:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 14:38:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thunderheart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>ThunderHeart Guidance offers mindfulness based consultation for groups, businesses and individuals. Wellness optimization includes customized guided meditations and mindfulness integration workshops. </p>]]></description>
-            <link>undefinedthunderheart-guidance-offers-mindfulness-based-consultation/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/827c08b9-8d43-4ac1-8307-b8bcc2d9b092.jpg">]]></description>
+            <link>https://thegrid.ai/thunderheart/thunderheart-guidance-offers-mindfulness-based-consultation/index.html</link>
             <guid isPermaLink="false">c25f00c8-ab0d-453b-8485-49bfdd16ce32</guid>
-            <pubDate>Mon, 14 Mar 2016 14:29:55 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 14:38:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
