@@ -1,4 +1,5 @@
-name: ThunderHeart
+favicon: null
+layout_spectrum: 0.05513784
 opengraph:
   image: null
   type: null
@@ -17,24 +18,23 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.5018797
+  saturation: 0.6716792
   brandStrength: 1
-  lightness: 0.8546366
+  lightness: 0.7857143
   brandColors:
     - '#770101'
     - '#00002F'
     - '#FC4B01'
     - '#026D80'
     - '#AC4341'
-  rhythmicContrast: 0.835213
+  rhythmicContrast: 0.3634085
 typography_spectrum: 0.7922078461851925
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.05513784
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
+name: ThunderHeart
