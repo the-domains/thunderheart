@@ -35,7 +35,7 @@ color:
     - '#026D80'
     - '#AC4341'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 0.5625
   saturation: 0.5625
   rhythmicContrast: 0.5
 purpose: []
