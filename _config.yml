@@ -1,41 +1,41 @@
-name: ThunderHeart Guidance
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.24716
+title: ThunderHeart Guidance
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: ThunderHeart Guidance
+color:
+  saturation: 0.5625
+  brandStrength: 1
+  lightness: 0.5625
+  brandColors:
+    - '#000000'
+    - '#7F0103'
+    - '#FC4203'
+    - '#9A534C'
+    - '#FBFA30'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: ThunderHeart Guidance
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#bfbfbf'
-    - '#010001'
-    - '#7c7c7c'
-    - '#585858'
-    - '#9e9e9e'
-  brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.5625
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.24716
+layout_spectrum: 1
