@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Business Mindfulness Workshops
-datePublished: '2016-04-13T16:00:11.635Z'
-dateModified: '2016-04-13T15:59:14.741Z'
+datePublished: '2016-04-13T16:12:58.959Z'
+dateModified: '2016-04-13T16:12:58.617Z'
 title: Workshops for Business Organizations
 author: []
 authors: []
@@ -22,6 +22,5 @@ url: workshops-for-business-organizations/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/318f9646-12a8-42f8-90aa-b0107ebc3249.jpg)
-
 Business Mindfulness Workshops
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a039e35-7796-4aa4-887a-eea5b131525e.jpg)
