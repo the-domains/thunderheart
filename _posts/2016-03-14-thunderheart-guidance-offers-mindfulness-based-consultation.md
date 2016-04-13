@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "ThunderHeart Guidance offers mindfulness based consultation for groups, businesses and individuals. Wellness optimization includes customized guided meditations and mindfulness integration workshops.\_"
-datePublished: '2016-04-13T15:06:00.372Z'
-dateModified: '2016-04-13T15:05:19.126Z'
+datePublished: '2016-04-13T15:29:09.337Z'
+dateModified: '2016-04-13T15:29:00.867Z'
 title: Personal Guidance
 author: []
 sourcePath: _posts/2016-03-14-thunderheart-guidance-offers-mindfulness-based-consultation.md
@@ -22,7 +22,8 @@ url: thunderheart-guidance-offers-mindfulness-based-consultation/index.html
 _type: Article
 
 ---
-ThunderHeart Guidance
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18cdf769ac0aca5c593662e3eb009cf3ec5b66a1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b230b14a-4a26-401e-a80e-8cf307954f8e.jpg)
 
-ThunderHeart Guidance offers mindfulness based consultation for groups, businesses and individuals. Wellness optimization includes customized guided meditations and mindfulness integration workshops. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fff1c8de-cca4-48ca-89ea-f5fff97f665f.png)
+ThunderHeart Guidance
+
+ThunderHeart Guidance offers mindfulness based consultation for groups, businesses and individuals. Wellness optimization includes customized guided meditations and mindfulness integration workshops.
