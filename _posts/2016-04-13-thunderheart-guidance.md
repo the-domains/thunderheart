@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Thunderheart Guidance in Mindfulness and Meditation
-datePublished: '2016-04-13T16:06:04.392Z'
-dateModified: '2016-04-13T16:05:58.092Z'
+datePublished: '2016-04-13T16:12:44.882Z'
+dateModified: '2016-04-13T16:12:13.809Z'
 title: Thunderheart Guidance
 author: []
 authors: []
