@@ -1,18 +1,19 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   My name is Simon Esler and I specialized in bringing presence into people’s
   lives via a variety of different services including:
-dateModified: '2018-04-01T23:02:31.208Z'
-datePublished: '2018-04-01T23:02:31.355Z'
-title: May you find the peace of your open heart on your journey!
+dateModified: '2018-04-01T23:11:19.289Z'
+datePublished: '2018-04-01T23:11:19.870Z'
+title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-03-21-welcome-to-thunderheart-guidance.md
-hasPage: false
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-03-21T19:45:47.956Z'
+url: may-you-find-the-peace-of-your-open-heart-on-your-journey/index.html
 _type: Blurb
 
 ---
@@ -29,4 +30,4 @@ I practice what I preach, so anything I'm being hired for I am present with the 
 
 Thank you for being here.
 
-## May you find the peace of your open heart on your journey!
+_**May you find the peace of your open heart on your journey!**_
