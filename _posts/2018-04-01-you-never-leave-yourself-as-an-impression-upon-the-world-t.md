@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-04-01T17:20:13.762Z'
-datePublished: '2018-04-01T17:20:14.474Z'
+dateModified: '2018-04-01T19:06:09.541Z'
+datePublished: '2018-04-01T19:06:10.061Z'
 title: >-
   "You never leave yourself as an impression upon the world. The world always
   leaves its impression upon your silence. This is how we travel as seers, upon
