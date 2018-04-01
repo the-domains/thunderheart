@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   My name is Simon Esler and I specialized in bringing presence into people’s
   lives via a variety of different services including:
-dateModified: '2018-04-01T22:56:57.187Z'
-datePublished: '2018-04-01T22:56:57.660Z'
+dateModified: '2018-04-01T23:02:31.208Z'
+datePublished: '2018-04-01T23:02:31.355Z'
 title: May you find the peace of your open heart on your journey!
 author: []
 publisher: {}
