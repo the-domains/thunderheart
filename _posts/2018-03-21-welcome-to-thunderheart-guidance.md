@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   My name is Simon Esler and I specialized in bringing presence into people’s
   lives via a variety of different services including:
-dateModified: '2018-04-01T17:29:08.549Z'
-datePublished: '2018-04-01T17:29:09.035Z'
-title: Welcome to ThunderHeart Guidance
+dateModified: '2018-04-01T17:50:35.213Z'
+datePublished: '2018-04-01T17:50:35.765Z'
+title: May you find the peace of your open heart on your journey!
 author: []
 publisher: {}
 via: {}
@@ -16,7 +16,6 @@ datePublishedOriginal: '2018-03-21T19:45:47.956Z'
 _type: Blurb
 
 ---
-# _**Welcome to ThunderHeart Guidance**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0a1729a-5c08-4d8b-8939-b673c4401a0a.jpg)
 
 My name is Simon Esler and I specialized in bringing presence into people's lives via a variety of different services including:
