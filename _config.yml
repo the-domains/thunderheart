@@ -1,63 +1,33 @@
-typography_spectrum: 0.5082586475528112
-color:
-  brandColors:
-    - '#FA1800'
-    - '#FF7802'
-    - '#2D001C'
-    - '#BE4C33'
-    - '#FECC5A'
-  brandStrength: 0.34929179895752216
-  lightness: 0.5437516096427041
-  saturation: 0.8360003961063
-  rhythmicContrast: 0.001651166659309575
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.7683794972241516
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: ThunderHeart Guidance
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:esler.simon@gmail.com'
+    label: email
+  - type: contact
+    url: 'tel:4164576581'
+    label: Call or Text 4164576581
+github: true
+description: '- celebrate presence -'
 author:
   name: Simon Esler
   email: esler.simon@gmail.com
-name: ThunderHeart Guidance
 cta:
-  domain: null
   bucket: null
   version: null
-navigation:
-  - name: Custom Ceremonies
-    id: 6851ef60-ef7d-4854-8fec-4b47c24635ed
-    type: content
-  - name: Private Mindfulness & Meditation
-    id: c25f00c8-ab0d-453b-8485-49bfdd16ce32
-    type: content
-  - name: Workplace Wellness
-    id: 804a3f7d-3f27-4fb5-b32f-90df503bc9a5
-    type: content
-  - name: Kids Yoga
-    id: cc2129e7-ee4f-49e7-a8a9-577902837d5c
-    type: content
-  - name: About
-    id: 554e916b-13b5-4f8b-a93d-65ac09a39e7c
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f936ef-ccae-4505-a219-440d5295caa1.jpg
+  domain: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: ThunderHeart Guidance
+    permalink:
+      path: '/:title/'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -67,19 +37,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae843e44-5ee7-409c-89cf-5c2634f21061.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
       author: []
       '@context': 'http://schema.org'
+      keywords: []
       '@type': MediaObject
-      app_links: []
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
       description: ''
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -91,28 +61,55 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a366dfc-b460-485c-b3c8-652d32826af2.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
       author: []
       '@context': 'http://schema.org'
+      keywords: []
       '@type': MediaObject
-      app_links: []
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
       description: ''
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: '- celebrate presence -'
-purpose:
-  - type: contact
-    url: 'mailto:esler.simon@gmail.com'
-    label: email
-  - type: contact
-    url: 'tel:4164576581'
-    label: Call or Text 4164576581
-github: true
+navigation:
+  - id: 6851ef60-ef7d-4854-8fec-4b47c24635ed
+    name: Custom Ceremonies
+    type: content
+  - id: c25f00c8-ab0d-453b-8485-49bfdd16ce32
+    name: Private Mindfulness & Meditation
+    type: content
+  - id: 804a3f7d-3f27-4fb5-b32f-90df503bc9a5
+    name: Workplace Wellness
+    type: content
+  - id: cc2129e7-ee4f-49e7-a8a9-577902837d5c
+    name: Kids Yoga
+    type: content
+  - id: 554e916b-13b5-4f8b-a93d-65ac09a39e7c
+    name: About
+    type: content
+layout_spectrum: 0.7683794972241516
+color:
+  lightness: 0.5437516096427041
+  brandColors:
+    - '#FA1800'
+    - '#FF7802'
+    - '#2D001C'
+    - '#BE4C33'
+    - '#FECC5A'
+  saturation: 0.8360003961063
+  brandStrength: 0.34929179895752216
+  rhythmicContrast: 0.0016511666593095747
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f936ef-ccae-4505-a219-440d5295caa1.jpg
+content_rating:
+  adult: false
+typography_spectrum: 0.5082586475528112
+opengraph:
+  appId: '1924999310857240'
+title: ThunderHeart Guidance
