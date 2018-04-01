@@ -5,8 +5,8 @@ description: >-
   presence, social conditioning and heart based living in this episode of
   Spiritual Living. Lots of little tips and gems of wisdom for you. Also
   featuring a guest appearance by my son Asher!
-dateModified: '2018-04-01T17:19:09.656Z'
-datePublished: '2018-04-01T17:19:10.383Z'
+dateModified: '2018-04-01T19:06:09.541Z'
+datePublished: '2018-04-01T19:06:10.056Z'
 title: >-
   The Power of Now with Simon Esler: Spiritual Living with Barbara
   Schreiner-Trudel
