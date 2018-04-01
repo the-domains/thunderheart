@@ -1,25 +1,26 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: Thunderheart Guidance in Mindfulness and Meditation
-datePublished: '2016-04-13T16:16:28.202Z'
-dateModified: '2016-04-13T16:16:14.833Z'
-title: Thunderheart Guidance
-author: []
+description: Kids Yoga!
+datePublished: '2018-04-01T19:06:10.066Z'
+dateModified: '2018-04-01T19:06:09.541Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-13-thunderheart-guidance.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: true
+datePublishedOriginal: '2016-04-13T16:06:04.392Z'
 url: thunderheart-guidance/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68e29292-bd58-463f-8d69-44924756e64e.jpg)
+Kids Yoga!
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6faf2732ec3fe4bcaeb9fa0b46400f9d4cb93dbc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03cdefb6-3899-4052-9441-1d0fbe2c0870.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84387aff-5084-4727-9ae2-818c5c9f97f0.jpg)
