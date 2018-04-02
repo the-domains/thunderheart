@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: Custom Guidance
-datePublished: '2018-04-02T13:28:43.240Z'
-dateModified: '2018-04-02T13:28:42.395Z'
+datePublished: '2018-04-02T13:42:54.766Z'
+dateModified: '2018-04-02T13:42:54.100Z'
 title: ''
 author: []
 sourcePath: >-
@@ -36,7 +36,7 @@ Any questions about packages and availability can be directed to me via [email][
 
 ---
 
-Take ten minutes to rest and enjoy this ten minute guided meditation. 
+Take ten minutes to rest and enjoy this ten minute guided meditation.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS16_MLy0p1UtK1S_LysrxMPLO9XCOBACW-woC" height="244" style=""></iframe>
 
