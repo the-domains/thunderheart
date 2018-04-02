@@ -118,10 +118,7 @@ content:
 description: >-
   :: Simon Esler :: Mindfulness Coach - Life-Cycle Celebrant - Metaphysical
   Minister - Kids Yoga Teacher
-purpose:
-  - type: contact
-    url: 'mailto:esler.simon@gmail.com'
-    label: email
+purpose: []
 github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f0db21c-b046-4a58-bd0f-4b9b056b2318.png
