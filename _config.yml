@@ -80,7 +80,6 @@ content:
         domain: vimeo.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vimeo://app.vimeo.com/videos/262769840'
@@ -116,7 +115,9 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: '- celebrate presence -'
+description: >-
+  Simon Esler - Mindfulness Coach - Life-Cycle Celebrant - Metaphysical Minister
+  - Kids Yoga Teacher
 purpose:
   - type: contact
     url: 'mailto:esler.simon@gmail.com'
