@@ -80,7 +80,6 @@ content:
         domain: vimeo.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vimeo://app.vimeo.com/videos/262769840'
@@ -117,10 +116,8 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  :: Simon Esler
-  ::                                                                 
-  Mindfulness Coach - Life-Cycle Celebrant - Metaphysical Minister - Kids Yoga
-  Teacher
+  :: Simon Esler ::      ••Meditation Coach••Certified Life-Cycle
+  Celebrant®••Registered Metaphysical Minister••Certified Kids Yoga Teacher••
 purpose:
   - type: contact
     url: 'tel:4164576581'
