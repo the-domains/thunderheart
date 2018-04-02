@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   My name is Simon Esler and I specialized in bringing presence into people’s
-  lives via a variety of different services including:
-dateModified: '2018-04-02T03:11:24.430Z'
-datePublished: '2018-04-02T03:11:26.198Z'
+  lives. My services include:
+dateModified: '2018-04-02T03:20:23.450Z'
+datePublished: '2018-04-02T03:20:24.065Z'
 title: ''
 author: []
 publisher: {}
@@ -18,9 +18,9 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0a1729a-5c08-4d8b-8939-b673c4401a0a.jpg)
 
-My name is Simon Esler and I specialized in bringing presence into people's lives via a variety of different services including:
+My name is Simon Esler and I specialized in bringing presence into people's lives. My services include:
 
-* _Officiating Custom Wedding Ceremonies_
+* _Creating and Officiating Custom Wedding Ceremonies_
 * _Private Tutoring in Mindfulness and Meditation_
 * _Kids Yoga_
 * _Workplace Wellness Programs_
