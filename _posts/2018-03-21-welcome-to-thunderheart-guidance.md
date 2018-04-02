@@ -2,9 +2,12 @@
 inFeed: true
 description: >-
   My name is Simon Esler and I specialized in bringing presence into people’s
-  lives. My services include:
-dateModified: '2018-04-02T03:20:23.450Z'
-datePublished: '2018-04-02T03:20:24.065Z'
+  lives. Whether this means guided work in mindfulness and meditation or
+  grounding you and your loved ones into the beauty of a custom wedding
+  ceremony, I take great care and pride in offering you the presence your life
+  circumstances deserve. 
+dateModified: '2018-04-02T13:17:59.278Z'
+datePublished: '2018-04-02T13:18:00.606Z'
 title: ''
 author: []
 publisher: {}
@@ -18,7 +21,11 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0a1729a-5c08-4d8b-8939-b673c4401a0a.jpg)
 
-My name is Simon Esler and I specialized in bringing presence into people's lives. My services include:
+_**My name is Simon Esler and I specialized in**_****_**bringing presence into people's lives. Whether this means guided work in mindfulness and meditation or grounding you and your loved ones into the beauty of a custom wedding ceremony, I take great care and pride in offering you the presence your life circumstances deserve. **_
+
+Here you will find access to all of my services including:
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwFwcENgEAIBMCKkL_d4LEKyYUzuMb2nQny3lUZbzk6YM1tmH5wz7oesXKZeUIGJo425qofBswTvw" height="244" style=""></iframe>
 
 * _Creating and Officiating Custom Wedding Ceremonies_
 * _Private Tutoring in Mindfulness and Meditation_
@@ -26,6 +33,8 @@ My name is Simon Esler and I specialized in bringing presence into people's live
 * _Workplace Wellness Programs_
 
 I practice what I preach, so anything I'm being hired for I am present with the specific needs of each client, leaving all assumptions and preconceptions at the door.
+
+Access to all my services can be found in the menu.
 
 Thank you for being here.
 
